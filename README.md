@@ -26,9 +26,9 @@ Enter Assured Sum (or Annuity Benefit for XY)
 Read the Calculated Premium/Value and see the chart
 
 ## Notes / Assumptions
-Life table ages 20–90
-Approximations: immediate ≈ (1+𝑖)0.5×≈(1+i)0.5× EoY; continuous annuity ≈a¨x​−0.5
-Keep age + term ≤ 90
+Immediate on death” approx: multiply end-of-year value by (1 + i)^(0.5)
+Continuous annuity approx: a(double dot)_x ≈ (annuity-due) − 0.5
+Age range: 20–90; keep age + term ≤ 90
 
 ## Screenshot of the Shiny App
 <img width="1918" height="1016" alt="Screenshot 2025-09-24 190115" src="https://github.com/user-attachments/assets/63a6f0b2-228a-4bc3-bb66-b1a89805491f" />
