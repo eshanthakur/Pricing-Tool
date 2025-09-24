@@ -32,6 +32,6 @@ Keep age + term ≤ 90
 
 ## Screenshot of the Shiny App
 <img width="1918" height="1016" alt="Screenshot 2025-09-24 190115" src="https://github.com/user-attachments/assets/63a6f0b2-228a-4bc3-bb66-b1a89805491f" />
-<img width="1918" height="960" alt="Screenshot 2025-09-24 190301" src="https://github.com/user-attachments/assets/3003d42f-a21f-4738-8f82-757e58e1b2da" />
+<img width="1850" height="452" alt="Screenshot 2025-09-24 190301" src="https://github.com/user-attachments/assets/47bc107a-7c1d-4490-8cb1-62f99bd22283" />
 
 
